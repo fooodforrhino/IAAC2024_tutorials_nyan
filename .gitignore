@@ -3,9 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 fysik2.md
-
+*2.mp4
+*3.mp4 
+*.avi
+*.pt
 # C extensions
 *.so
+
+quickstarts/cache/*
 
 # Distribution / packaging
 .Python
